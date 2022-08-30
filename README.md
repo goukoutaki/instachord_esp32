@@ -1,4 +1,4 @@
-InstaChordをBLE MIDIでESP32系のマイコンに接続して、コードのノート情報を受け取るarduinoコード
+### InstaChordをBLE MIDIでESP32系のマイコンに接続して、コードのノート情報を受け取るarduinoコード
 
 起動時に接続を試みます。途中で切れた場合はマイコンをリセットしてください。
 
