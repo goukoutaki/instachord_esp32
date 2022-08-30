@@ -4,7 +4,7 @@ InstaChordをBLE MIDIでESP32系のマイコンに接続して、コードのノ
 
 m5atomで動作を確認しています。
 
-![image](https://user-images.githubusercontent.com/18435429/187401402-b0812a8a-94b2-48aa-a02c-6805b77574c7.png)
+<img src="https://user-images.githubusercontent.com/18435429/187401402-b0812a8a-94b2-48aa-a02c-6805b77574c7.png" width=400></img>
 
 InstaChordでコードを弾くと上記のようにシリアルモニタにオンノートを表示できます。
 
